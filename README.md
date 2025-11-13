@@ -6,11 +6,9 @@
 当用户给管理员发消息时（即 Bot 转发给管理员成功后），Bot 会按用户会话发送一条「会话头」：
 
 
-📂 会话 U003
-👤 用户: @username 或 tg://user 链接
-🆔 ID: `123456789`
-🌐 语言: `zh-hans` / `en` 等
----
+<img width="410" height="218" alt="image" src="https://github.com/user-attachments/assets/9b559f2f-2f9c-433a-a787-abd0795d6a22" />
+
+
 
 # 🤖 HyunBot - Telegram 管理员转发与防骚扰机器人
 
